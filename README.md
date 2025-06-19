@@ -73,7 +73,7 @@ Check out the demo of this project on LinkedIn:
 ## 🔗 Connect
 
 - **Internship:** [MyDailyWork](https://www.linkedin.com/company/mydailywork/)
-- **LinkedIn:** [Your LinkedIn Profile]
+- **LinkedIn:** [www.linkedin.com/in/amogh-pawar]
 - **GitHub Repo:** [Current Repo Link]
 
 ---
