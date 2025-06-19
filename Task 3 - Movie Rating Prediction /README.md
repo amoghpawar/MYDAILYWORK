@@ -74,7 +74,7 @@ Check out the demo of this project on LinkedIn:
 
 - **Internship:** [MyDailyWork](https://www.linkedin.com/company/mydailywork/)
 - **LinkedIn:** [www.linkedin.com/in/amogh-pawar]
-- **GitHub Repo:** [Current Repo Link]
+- **GitHub Repo:** [https://github.com/amoghpawar/MYDAILYWORK/tree/main/Task%203%20-%20Movie%20Rating%20Prediction%20]
 
 ---
 
